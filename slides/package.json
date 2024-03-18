@@ -11,6 +11,10 @@
     "@slidev/cli": "^0.48.3",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "slidev-theme-dracula": "^0.2.0",
+    "slidev-theme-penguin": "^2.1.2",
+    "slidev-theme-purplin": "^1.2.0",
+    "slidev-theme-unicorn": "^1.1.1",
     "vue": "^3.4.21"
   }
 }
