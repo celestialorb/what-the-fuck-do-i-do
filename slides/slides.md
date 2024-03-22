@@ -79,5 +79,27 @@ Autonomous Driving Robotaxi
 
 </div>
 </div>
+
+---
+
+## Past Positions
+
+<div class="grid grid-cols-1 gap-4">
+<div>
+```mermaid {theme: 'dark', scale: 0.55}
+timeline
+  section Aerospace (Millennium)
+    2012 : Flight Software Engineer : Satellite Operations Engineer
+    2015 : Ground Software Engineer : Infrastructure Engineer
+  section Gaming (CCP)
+    2017 : Tooling Software Engineer
+    2019 : Infrastructure Engineer
+  section Supply Chain Logistics (Controlant)
+    2020 : Platform Engineer
+  section Aerospace (RocketLab)
+    2022 : Platform Engineer
+  section Autonomous Driving (Zoox)
+    2023 : Software Engineer
+```
 </div>
 </div>
