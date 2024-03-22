@@ -38,7 +38,10 @@ Zoox
 
 Autonomous Driving Robotaxi
 
-- TODO
+- Ride Service App
+- Purpose-built Bidirectional Vehicle
+- Multiple Sensor Types
+- Owned by Amazon
 
 </div>
 <div>
@@ -57,9 +60,17 @@ Autonomous Driving Robotaxi
 <div class="grid grid-cols-2 gap-4">
 <div>
 
-Simulation Operations Team
+### Team: Simulation Team
 
-- Responsible for providing simulation tooling for driving team customers.
+- Provides sim tooling for internal customers
+- Used to validate driving software
+
+### Subteam: Simulation Operations
+
+- Somewhat DevOps-y
+- Automation of workflows
+- Increase observability
+- Drive improvements via metrics
 
 </div>
 <div>
