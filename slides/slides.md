@@ -82,6 +82,14 @@ Autonomous Driving Robotaxi
 
 ---
 
+## Current Projects
+
+### Simulation Coverage
+
+<center><img src="/images/coverage.png" class="mt-5 w-180 rounded" /></center>
+
+---
+
 ## Past Positions
 
 <div class="grid grid-cols-1 gap-4">
