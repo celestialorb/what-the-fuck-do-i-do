@@ -75,7 +75,9 @@ Autonomous Driving Robotaxi
 </div>
 <div>
 
-<img src="/images/vh6.jpg" class="mt-20 rounded border" />
+<img src="/images/simulation.png" class="mt-20 rounded border" />
 
+</div>
+</div>
 </div>
 </div>
