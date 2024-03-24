@@ -21,7 +21,7 @@ mdc: true
 ---
 
 # To Whom Do I Sell My Knowledge?
-### TODO
+### A Brief Overview
 
 ---
 
