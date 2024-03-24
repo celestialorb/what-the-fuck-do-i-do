@@ -6,7 +6,7 @@ theme: purplin
 # background: https://cover.sli.dev
 background: https://images.unsplash.com/photo-1449247709967-d4461a6a6103?q=80&w=3500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 # some information about your slides, markdown enabled
-title: To Whom Do I Sell My Knowledge?
+title: To Whom Have I Sold My Knowledge?
 # apply any unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -20,8 +20,32 @@ transition: slide-left
 mdc: true
 ---
 
-# To Whom Do I Sell My Knowledge?
+# To Whom Have I Sold My Knowledge?
 ### A Brief Overview
+
+---
+
+## Past Positions
+
+<div class="grid grid-cols-1 gap-4">
+<div>
+```mermaid {theme: 'dark', scale: 0.55}
+timeline
+  section Aerospace (Millennium)
+    2012 : Flight Software Engineer : Satellite Operations Engineer
+    2015 : Ground Software Engineer : Infrastructure Engineer
+  section Gaming (CCP)
+    2017 : Tooling Software Engineer
+    2019 : Infrastructure Engineer
+  section Supply Chain Logistics (Controlant)
+    2020 : Platform Engineer
+  section Aerospace (RocketLab)
+    2022 : Platform Engineer
+  section Autonomous Driving (Zoox)
+    2023 : Software Engineer
+```
+</div>
+</div>
 
 ---
 
@@ -83,27 +107,3 @@ Autonomous Driving Robotaxi
 ### Simulation Coverage
 
 <center><img src="/images/coverage.png" class="mt-5 w-180 rounded" /></center>
-
----
-
-## Past Positions
-
-<div class="grid grid-cols-1 gap-4">
-<div>
-```mermaid {theme: 'dark', scale: 0.55}
-timeline
-  section Aerospace (Millennium)
-    2012 : Flight Software Engineer : Satellite Operations Engineer
-    2015 : Ground Software Engineer : Infrastructure Engineer
-  section Gaming (CCP)
-    2017 : Tooling Software Engineer
-    2019 : Infrastructure Engineer
-  section Supply Chain Logistics (Controlant)
-    2020 : Platform Engineer
-  section Aerospace (RocketLab)
-    2022 : Platform Engineer
-  section Autonomous Driving (Zoox)
-    2023 : Software Engineer
-```
-</div>
-</div>
