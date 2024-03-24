@@ -6,12 +6,7 @@ theme: purplin
 # background: https://cover.sli.dev
 background: https://images.unsplash.com/photo-1449247709967-d4461a6a6103?q=80&w=3500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 # some information about your slides, markdown enabled
-title: Welcome to Slidev
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+title: To Whom Do I Sell My Knowledge?
 # apply any unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -26,6 +21,7 @@ mdc: true
 ---
 
 # To Whom Do I Sell My Knowledge?
+### TODO
 
 ---
 
